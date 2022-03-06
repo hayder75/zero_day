@@ -1,0 +1,4 @@
+vi school.mgc
+enter the script save and exit
+chmod u+x school.mgc 
+file -Cm school.mgc
